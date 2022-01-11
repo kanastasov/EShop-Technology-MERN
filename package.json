@@ -1,0 +1,25 @@
+{
+  "name": "eshop",
+  "version": "1.0.0",
+  "description": "MERN shoping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanastasov/EShop-Technology-MERN.git"
+  },
+  "keywords": [
+    "kanastasoff"
+  ],
+  "author": "Kiril Anastasov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanastasov/EShop-Technology-MERN/issues"
+  },
+  "homepage": "https://github.com/kanastasov/EShop-Technology-MERN#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
