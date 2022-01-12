@@ -15,8 +15,7 @@ app.get('/api/products/:id', (req,res) =>{
     // const product = products.find((p) => p._id === req.params.id)
 
 //  const { id} = useParams();
- 
-const product = products.find((p) => p._id === match.params.id)
+const product = products.find((p) => p._id === req.params.id)
 // const product = products.find((p) => p._id === (id));
 
 
