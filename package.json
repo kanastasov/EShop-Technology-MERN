@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/kanastasov/EShop-Technology-MERN#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "dotenv": "^11.0.0",
     "express": "^4.17.2",
     "mongoose": "^5.10.6"
