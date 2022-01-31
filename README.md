@@ -1,5 +1,6 @@
 # EShop developed by MERN stack and deployed to Heroku.
 
+![product1](https://user-images.githubusercontent.com/755058/151758876-ea50c0f1-3147-4d8f-aa43-8ed3455c5d62.png)
 
 Features
 Full featured shopping cart
